@@ -1,4 +1,4 @@
-# ML_project_reinforcement_learning
+# Reinforcement_Learning-Q-learning
 The purpose of this project is to implement a Q-learning framework to train the agent on SlipperyFrozenLake, which is modified from the FrozenLake provided in gym library. The rules are provided as follows:
 
 1. The agent starts in the starting point (S), and the goal is to reach the goal (G) while avoiding the holes (H).
